@@ -1,5 +1,6 @@
 # DesignPattern
 Using Java
+Using Observer Pattern
 
 swing을 이용하여, window 제작 후, 소수생성 프로그램 제작
 먼저 소수 생성 부분, 첫번째 window, 두번째 window를 분리
